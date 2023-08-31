@@ -1,0 +1,17 @@
+.card {
+    background-color: #ffffff; /* Set your desired background color */
+    border: 1px solid #e0e0e0;
+    padding: 12px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card {
+    /* ...other styles... */
+    text-align: center; /* Set the desired text alignment */
+}
+.completed {
+    background-color: #f0f0f0;
+    text-decoration: line-through;
+    color: #aaa;
+}
